@@ -1,10 +1,4 @@
 html {
   font-family: arial;
-  background: #9b2a2a;
-  background: linear-gradient(90deg, rgba(155, 42, 42, 1) 0%, rgba(98, 87, 199, 1) 50%);
-  background: #9b2a2a;
-background: -webkit-linear-gradient(90deg, rgba(155, 42, 42, 1) 0%, rgba(98, 87, 199, 1) 50%);
-background: -moz-linear-gradient(90deg, rgba(155, 42, 42, 1) 0%, rgba(98, 87, 199, 1) 50%);
-background: linear-gradient(90deg, rgba(155, 42, 42, 1) 0%, rgba(98, 87, 199, 1) 50%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#9B2A2A", endColorstr="#6257C7", GradientType=1);
+  background-color: red;
 }
