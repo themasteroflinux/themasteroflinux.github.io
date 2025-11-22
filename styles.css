@@ -3,6 +3,7 @@ html {
   background: #9b2a2a;
 background: linear-gradient(90deg, rgba(155, 42, 42, 1) 0%, rgba(98, 87, 199, 1) 50%);
   color: white;
+	
 }
 .myButton {
 	box-shadow:inset 0px -3px 7px 0px #29bbff;
